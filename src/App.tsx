@@ -35,7 +35,7 @@ function App() {
                 durationMs={Number(durationSeconds) * 1000}
                 className="countdown-display"
                 onComplete={() => {
-                  console.log("STOP_RECORDING");
+                  console.log("END_RECORDING");
                 }}
               />
             )}
