@@ -2,4 +2,5 @@
 
 > A small testbed site to use while validating LiveKit Web Egress recording.
 
-While this repo is private, the GH pages site is not. DO NOT ADD PRIVATE STUFF HERE.
+This is a public test repository that hosts a GH page site with just a simple test page we can use the validate Livekit behaviors.
+It should be used **for testing only**.
