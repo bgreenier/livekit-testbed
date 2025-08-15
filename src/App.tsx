@@ -9,7 +9,7 @@ const durationSeconds = params.get("durationSeconds") ?? "30";
 const earlyExit = params.get("earlyExit") !== null;
 
 if (earlyExit) {
-  window.close();
+  console.log("END_RECORDING")
 }
 
 function App() {
